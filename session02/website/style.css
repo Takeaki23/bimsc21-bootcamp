@@ -1,32 +1,27 @@
-
 html{
 
-    background-color: rgba(128, 128, 128, 0.411);
-    color: white;
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 15pt;
+    background-color: dimgrey;
+    color: rgb(242, 243, 190);
 }
 
 h1,h2 {
 
-    /* color: #ff0000; */
+    /*color: #e29c03; */
     font-family: 'Courier New', Courier, monospace;
-    background-color: black;
 
 }
 
 img{
-    width: 100%;
+    width : 100%; 
 
 }
 
 #nice{
 
-    color: blue;
+    color: aqua;
 }
 
-
-.special-items {
+.special-items:hover{
 
     font-style: italic;
     background-color: crimson;
@@ -34,17 +29,7 @@ img{
 }
 
 a:hover{
-    background-color: violet;
+
+    background-color: gold;
 
 }
-
-div{
-
-    background-color: aqua;
-}
-
-.special{
-    background-color: rgb(118, 92, 143);
-    color: white;
-}
-
